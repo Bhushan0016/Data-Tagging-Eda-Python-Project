@@ -9,7 +9,9 @@ Task 1: Manual tagging of free-text data (Complaint, Cause, Correction) using a 
 Task 2: Performing a full cycle of EDA and data preparation to generate actionable insights.
 
 ✅ Task 1: Data Tagging
+
 🔹 Objective
+
 To manually tag free-text data fields (Complaint, Cause, Correction) using a given taxonomy that included categories for:
 
 Root Cause
@@ -23,11 +25,13 @@ Fix_Condition
 Fix_Component
 
 📝 Deliverables
+
 Tagged dataset in .csv format.
 
 Summary report explaining the tagging methodology and insights.
 
 💡 Key Highlights
+
 Logical mapping of free text to taxonomy using contextual clues.
 
 Addressed ambiguity with documented reasoning.
@@ -35,10 +39,13 @@ Addressed ambiguity with documented reasoning.
 Identified patterns such as frequently occurring components and conditions.
 
 ✅ Task 2: Data Analysis & Insights Generation
+
 🔹 Objective
+
 To perform column-wise analysis, data cleaning, feature/tag generation from free text, and visualization using Python.
 
 📊 Key Steps
+
 Column-Wise Analysis
 
 Data type identification, unique values, distributions, and relevance to stakeholders.
@@ -60,6 +67,7 @@ Summary & Recommendations
 Provided actionable insights and flagged data quality issues.
 
 📈 Visualizations Included
+
 Frequency distribution of key components and failures.
 
 Correlation between failure types and fixes.
@@ -67,6 +75,7 @@ Correlation between failure types and fixes.
 Distribution of complaints across categories.
 
 💾 Tools & Libraries Used
+
 Python: pandas, numpy, matplotlib, seaborn, re
 
 Jupyter Notebook for scripting
@@ -76,6 +85,7 @@ Excel/Word/PDF for documentation
 Power BI (optional) for enhanced visuals
 
 🎯 Outcomes
+
 Well-documented tagging logic and summary insights.
 
 Clean and analysis-ready dataset.
@@ -83,6 +93,8 @@ Clean and analysis-ready dataset.
 Actionable insights for stakeholders such as frequent root causes and commonly replaced components.
 
 📬 Contact
+
 Feel free to reach out if you'd like to discuss this project or collaborate!
+
 📧 Email: bdhawas0016@gmail.com 
 🔗 Number : 8262829285
